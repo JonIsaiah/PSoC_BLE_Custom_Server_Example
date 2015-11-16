@@ -1,0 +1,5 @@
+C:\Users\username\Dropbox\PSoC Creator\304 Example\Bluetooth_Custom_Server\test01.cydsn\test01.cyprj|3a2b6079-1b92-4309-962c-baeed4e7c0e9
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|96517b9c-f2e7-4a3a-a83f-7fd7bacce9ed
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|d824d480-c65d-494d-b809-3acff07197e3
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|2cf1fef9-2b3f-41be-99ab-340bd30f715b
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|5082c9ee-9bd3-4e46-9568-3d00e65a5181
